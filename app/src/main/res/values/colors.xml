@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="translucent_background">#90000000</color>
+    <color name="speech_assistant_bg">#2bd6f7</color>
+    <color name="setting_default_text_color">#c8c8c8</color>
+
+    <color name="regionStartColor">#6482e6c9</color>
+    <color name="regionEndColor">#f00a2140</color>
+    <color name="regionCenterColor">#64ffffff</color>
+    <color name="regionEndColor1">#01E2FE</color>
+
+    <color name="colordarkblue">#FF2E26FF</color>
+    <color name="colordarkblue1">#FF1588FF</color>
+    <color name="colordarkblueAlpha">#663c8fea</color>
+    <color name="colorpurpleAlpha">#669022c6</color>
+    <color name="colorred">#C6367A</color>
+    <color name="colorredAlpha">#66C6367A</color>
+    <color name="colorPink">#FF33FF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="colorwathet">#8E93F0</color>
+    <color name="colorlavender">#AF82DB</color>
+
+    <color name="colorbrightblue">#FF01FFFE</color>
+    <color name="colorpurple">#FF9100F9</color>
+    <color name="color_60ebfd">#60ebfd</color>
+    <color name="color_c8c8c8">#c8c8c8</color>
+
+    <color name="uicolor_darkblue">#FF005BFF</color>
+    <color name="uicolor_darkbluealpha">#66005BFF</color>
+    <color name="uicolor_red">#FFE33870</color>
+    <color name="uicolor_redalpha">#BBE33870</color>
+    <color name="uicolor_purple">#FF9422C3</color>
+    <color name="uicolor_brightblue">#FF00E3FE</color>
+</resources>
